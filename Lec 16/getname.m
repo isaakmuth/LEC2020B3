@@ -1,4 +1,4 @@
-function [firstname, lastname] = getname
+funcfunction [firstname, lastname] = getname
 % GETNAME prompts for the first and last name and returns
 % the values entered by the user.
 
